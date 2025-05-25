@@ -37,6 +37,7 @@ A simple CRUD (Create, Read, Update, Delete) application built using **CodeIgnit
 ##Installation
 
 ### 1. Clone the Repository
+https://github.com/Prasanna8M/crud_jew.git
 
 
 ##Create database
