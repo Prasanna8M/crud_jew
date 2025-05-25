@@ -48,3 +48,4 @@ A simple CRUD (Create, Read, Update, Delete) application built using **CodeIgnit
 
 
 
+# crud_jew
